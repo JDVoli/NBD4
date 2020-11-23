@@ -1,0 +1,599 @@
+MongoDB shell version v4.4.2-rc1
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("f3122cb7-9511-4f42-9948-1b363edc1580") }
+MongoDB server version: 4.4.2-rc1
+uncaught exception: SyntaxError: missing : after property id :
+@zapytanie_3_A.js:1:165
+failed to load: zapytanie_3_A.js
+exiting with code -3
+MongoDB shell version v4.4.2-rc1
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("3ac16066-1bd0-4559-b6be-c6db8dff47a9") }
+MongoDB server version: 4.4.2-rc1
+[
+	{
+		"zawod" : "Accountant I"
+	},
+	{
+		"zawod" : "Occupational Therapist"
+	},
+	{
+		"zawod" : "Biostatistician II"
+	},
+	{
+		"zawod" : "Office Assistant I"
+	},
+	{
+		"zawod" : "Financial Analyst"
+	},
+	{
+		"zawod" : "Software Test Engineer IV"
+	},
+	{
+		"zawod" : "Health Coach I"
+	},
+	{
+		"zawod" : "Programmer Analyst III"
+	},
+	{
+		"zawod" : "Research Assistant II"
+	},
+	{
+		"zawod" : "Marketing Assistant"
+	},
+	{
+		"zawod" : "Business Systems Development Analyst"
+	},
+	{
+		"zawod" : "Assistant Manager"
+	},
+	{
+		"zawod" : "Statistician I"
+	},
+	{
+		"zawod" : "Accountant IV"
+	},
+	{
+		"zawod" : "Media Manager II"
+	},
+	{
+		"zawod" : "Account Representative IV"
+	},
+	{
+		"zawod" : "Statistician IV"
+	},
+	{
+		"zawod" : "Staff Accountant II"
+	},
+	{
+		"zawod" : "Software Engineer IV"
+	},
+	{
+		"zawod" : "Web Designer I"
+	},
+	{
+		"zawod" : "Librarian"
+	},
+	{
+		"zawod" : "Project Manager"
+	},
+	{
+		"zawod" : "Human Resources Assistant I"
+	},
+	{
+		"zawod" : "Pharmacist"
+	},
+	{
+		"zawod" : "Budget/Accounting Analyst I"
+	},
+	{
+		"zawod" : "Research Assistant I"
+	},
+	{
+		"zawod" : "Web Developer III"
+	},
+	{
+		"zawod" : "Accounting Assistant II"
+	},
+	{
+		"zawod" : "Engineer IV"
+	},
+	{
+		"zawod" : "Accounting Assistant III"
+	},
+	{
+		"zawod" : "Computer Systems Analyst II"
+	},
+	{
+		"zawod" : "Staff Accountant I"
+	},
+	{
+		"zawod" : "Registered Nurse"
+	},
+	{
+		"zawod" : "Design Engineer"
+	},
+	{
+		"zawod" : "Nurse Practicioner"
+	},
+	{
+		"zawod" : "Automation Specialist II"
+	},
+	{
+		"zawod" : "Web Designer II"
+	},
+	{
+		"zawod" : "Structural Analysis Engineer"
+	},
+	{
+		"zawod" : "Accounting Assistant I"
+	},
+	{
+		"zawod" : "Geologist III"
+	},
+	{
+		"zawod" : "Developer III"
+	},
+	{
+		"zawod" : "Help Desk Technician"
+	},
+	{
+		"zawod" : "Account Representative I"
+	},
+	{
+		"zawod" : "Senior Cost Accountant"
+	},
+	{
+		"zawod" : "Associate Professor"
+	},
+	{
+		"zawod" : "Quality Engineer"
+	},
+	{
+		"zawod" : "Programmer Analyst IV"
+	},
+	{
+		"zawod" : "Desktop Support Technician"
+	},
+	{
+		"zawod" : "Graphic Designer"
+	},
+	{
+		"zawod" : "Software Consultant"
+	},
+	{
+		"zawod" : "Technical Writer"
+	},
+	{
+		"zawod" : "Staff Accountant III"
+	},
+	{
+		"zawod" : "Database Administrator III"
+	},
+	{
+		"zawod" : "Environmental Specialist"
+	},
+	{
+		"zawod" : "Senior Developer"
+	},
+	{
+		"zawod" : "Biostatistician III"
+	},
+	{
+		"zawod" : "Community Outreach Specialist"
+	},
+	{
+		"zawod" : "Human Resources Assistant III"
+	},
+	{
+		"zawod" : "Electrical Engineer"
+	},
+	{
+		"zawod" : "Biostatistician IV"
+	},
+	{
+		"zawod" : "Statistician II"
+	},
+	{
+		"zawod" : "Programmer II"
+	},
+	{
+		"zawod" : "Help Desk Operator"
+	},
+	{
+		"zawod" : "Staff Accountant IV"
+	},
+	{
+		"zawod" : "Systems Administrator III"
+	},
+	{
+		"zawod" : "Research Associate"
+	},
+	{
+		"zawod" : "Social Worker"
+	},
+	{
+		"zawod" : "Product Engineer"
+	},
+	{
+		"zawod" : "Account Representative III"
+	},
+	{
+		"zawod" : "Computer Systems Analyst III"
+	},
+	{
+		"zawod" : "Executive Secretary"
+	},
+	{
+		"zawod" : "Health Coach III"
+	},
+	{
+		"zawod" : "Software Engineer III"
+	},
+	{
+		"zawod" : "Editor"
+	},
+	{
+		"zawod" : "Junior Executive"
+	},
+	{
+		"zawod" : "Media Manager IV"
+	},
+	{
+		"zawod" : "Director of Sales"
+	},
+	{
+		"zawod" : "Developer IV"
+	},
+	{
+		"zawod" : "Geologist I"
+	},
+	{
+		"zawod" : "Engineer II"
+	},
+	{
+		"zawod" : "Safety Technician II"
+	},
+	{
+		"zawod" : "Software Engineer II"
+	},
+	{
+		"zawod" : "Programmer I"
+	},
+	{
+		"zawod" : "Nuclear Power Engineer"
+	},
+	{
+		"zawod" : "Analog Circuit Design manager"
+	},
+	{
+		"zawod" : "Physical Therapy Assistant"
+	},
+	{
+		"zawod" : "Database Administrator IV"
+	},
+	{
+		"zawod" : "Cost Accountant"
+	},
+	{
+		"zawod" : "Engineer I"
+	},
+	{
+		"zawod" : "Mechanical Systems Engineer"
+	},
+	{
+		"zawod" : "Senior Sales Associate"
+	},
+	{
+		"zawod" : "Developer II"
+	},
+	{
+		"zawod" : "Health Coach IV"
+	},
+	{
+		"zawod" : "Internal Auditor"
+	},
+	{
+		"zawod" : "Senior Financial Analyst"
+	},
+	{
+		"zawod" : "Statistician III"
+	},
+	{
+		"zawod" : "Compensation Analyst"
+	},
+	{
+		"zawod" : "Administrative Assistant IV"
+	},
+	{
+		"zawod" : "Quality Control Specialist"
+	},
+	{
+		"zawod" : "Media Manager III"
+	},
+	{
+		"zawod" : "Sales Associate"
+	},
+	{
+		"zawod" : "Speech Pathologist"
+	},
+	{
+		"zawod" : "Safety Technician I"
+	},
+	{
+		"zawod" : "Computer Systems Analyst IV"
+	},
+	{
+		"zawod" : "Research Assistant III"
+	},
+	{
+		"zawod" : "Chief Design Engineer"
+	},
+	{
+		"zawod" : "Administrative Assistant I"
+	},
+	{
+		"zawod" : "Recruiter"
+	},
+	{
+		"zawod" : "Account Executive"
+	},
+	{
+		"zawod" : "Web Designer III"
+	},
+	{
+		"zawod" : "Systems Administrator I"
+	},
+	{
+		"zawod" : "Safety Technician III"
+	},
+	{
+		"zawod" : "Biostatistician I"
+	},
+	{
+		"zawod" : "VP Accounting"
+	},
+	{
+		"zawod" : "Web Developer II"
+	},
+	{
+		"zawod" : "Accountant III"
+	},
+	{
+		"zawod" : "Developer I"
+	},
+	{
+		"zawod" : "Assistant Media Planner"
+	},
+	{
+		"zawod" : "Tax Accountant"
+	},
+	{
+		"zawod" : "Automation Specialist I"
+	},
+	{
+		"zawod" : "Database Administrator II"
+	},
+	{
+		"zawod" : "Information Systems Manager"
+	},
+	{
+		"zawod" : "Computer Systems Analyst I"
+	},
+	{
+		"zawod" : "Administrative Officer"
+	},
+	{
+		"zawod" : "Systems Administrator IV"
+	},
+	{
+		"zawod" : "Paralegal"
+	},
+	{
+		"zawod" : "Programmer Analyst II"
+	},
+	{
+		"zawod" : "Engineer III"
+	},
+	{
+		"zawod" : "General Manager"
+	},
+	{
+		"zawod" : "Software Test Engineer II"
+	},
+	{
+		"zawod" : "Programmer IV"
+	},
+	{
+		"zawod" : "Chemical Engineer"
+	},
+	{
+		"zawod" : "Administrative Assistant III"
+	},
+	{
+		"zawod" : "VP Product Management"
+	},
+	{
+		"zawod" : "VP Marketing"
+	},
+	{
+		"zawod" : "Senior Editor"
+	},
+	{
+		"zawod" : "Software Test Engineer I"
+	},
+	{
+		"zawod" : "Nurse"
+	},
+	{
+		"zawod" : "Marketing Manager"
+	},
+	{
+		"zawod" : "VP Quality Control"
+	},
+	{
+		"zawod" : "Payment Adjustment Coordinator"
+	},
+	{
+		"zawod" : "Research Assistant IV"
+	},
+	{
+		"zawod" : "Safety Technician IV"
+	},
+	{
+		"zawod" : "Environmental Tech"
+	},
+	{
+		"zawod" : "Web Designer IV"
+	},
+	{
+		"zawod" : "VP Sales"
+	},
+	{
+		"zawod" : "Health Coach II"
+	},
+	{
+		"zawod" : "Geologist IV"
+	},
+	{
+		"zawod" : "Media Manager I"
+	},
+	{
+		"zawod" : "Office Assistant III"
+	},
+	{
+		"zawod" : "Software Engineer I"
+	},
+	{
+		"zawod" : "Accountant II"
+	},
+	{
+		"zawod" : "Dental Hygienist"
+	},
+	{
+		"zawod" : "Software Test Engineer III"
+	},
+	{
+		"zawod" : "Budget/Accounting Analyst II"
+	},
+	{
+		"zawod" : "Sales Representative"
+	},
+	{
+		"zawod" : "Senior Quality Engineer"
+	},
+	{
+		"zawod" : "Automation Specialist IV"
+	},
+	{
+		"zawod" : "Office Assistant II"
+	},
+	{
+		"zawod" : "Professor"
+	},
+	{
+		"zawod" : "Systems Administrator II"
+	},
+	{
+		"zawod" : "Programmer Analyst I"
+	},
+	{
+		"zawod" : "Structural Engineer"
+	},
+	{
+		"zawod" : "Data Coordiator"
+	},
+	{
+		"zawod" : "Programmer III"
+	},
+	{
+		"zawod" : "Recruiting Manager"
+	},
+	{
+		"zawod" : "Account Coordinator"
+	},
+	{
+		"zawod" : "Budget/Accounting Analyst IV"
+	},
+	{
+		"zawod" : "Assistant Professor"
+	},
+	{
+		"zawod" : "Database Administrator I"
+	},
+	{
+		"zawod" : "Human Resources Assistant IV"
+	},
+	{
+		"zawod" : "Web Developer IV"
+	},
+	{
+		"zawod" : "Analyst Programmer"
+	},
+	{
+		"zawod" : "Teacher"
+	},
+	{
+		"zawod" : "Staff Scientist"
+	},
+	{
+		"zawod" : "Financial Advisor"
+	},
+	{
+		"zawod" : "Geological Engineer"
+	},
+	{
+		"zawod" : "Civil Engineer"
+	},
+	{
+		"zawod" : "Research Nurse"
+	},
+	{
+		"zawod" : "Food Chemist"
+	},
+	{
+		"zawod" : "Actuary"
+	},
+	{
+		"zawod" : "Human Resources Assistant II"
+	},
+	{
+		"zawod" : "Geologist II"
+	},
+	{
+		"zawod" : "Web Developer I"
+	},
+	{
+		"zawod" : "Automation Specialist III"
+	},
+	{
+		"zawod" : "GIS Technical Architect"
+	},
+	{
+		"zawod" : "Account Representative II"
+	},
+	{
+		"zawod" : "Budget/Accounting Analyst III"
+	},
+	{
+		"zawod" : "Clinical Specialist"
+	},
+	{
+		"zawod" : "Office Assistant IV"
+	},
+	{
+		"zawod" : "Legal Assistant"
+	},
+	{
+		"zawod" : "Human Resources Manager"
+	},
+	{
+		"zawod" : "Accounting Assistant IV"
+	},
+	{
+		"zawod" : "Operator"
+	},
+	{
+		"zawod" : "Administrative Assistant II"
+	}
+]
